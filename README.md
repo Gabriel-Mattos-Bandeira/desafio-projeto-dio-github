@@ -19,4 +19,6 @@ O primeiro que surgiu, foi inovador,
 \
 E o segundo que depois veio, nos envolve...
 
-Um e puxa, e empurra, e ainda inicializa
+Um e puxa, e empurra, e tem inicialização,
+\
+O outro 
