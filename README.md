@@ -1,4 +1,4 @@
-# desafio-projeto-dio-github
+# desafio-projeto-dio-git
 Desafio de projeto da DIO no GitHub
 
 ## Irmãos
