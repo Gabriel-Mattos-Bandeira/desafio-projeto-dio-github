@@ -18,5 +18,5 @@ E o local representa quem desenvolve;
 O primeiro que surgiu, foi inovador,
 \
 E o segundo que depois veio, nos envolve...
-\
+
 Um e puxa, e empurra, e ainda inicializa
