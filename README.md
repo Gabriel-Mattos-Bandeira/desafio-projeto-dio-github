@@ -1,7 +1,7 @@
 # desafio-projeto-dio-github
 Desafio de projeto da DIO no GitHub
 
-## A parceria
+## A parceria ##
 
 Dois elementos lógicos intangíveis,
 \
