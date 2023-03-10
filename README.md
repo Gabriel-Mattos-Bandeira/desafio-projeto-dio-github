@@ -10,6 +10,3 @@ Cujos podem se sincronizar em instantes,
 Os quais de tal modo são significantes,
 
 Que necessitam de comandos legíveis...
-
-
-fffffffffffffffffff
