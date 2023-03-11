@@ -21,4 +21,5 @@ E o segundo que depois veio, nos envolve...
 
 Um e puxa, e empurra, e tem inicialização,
 \
-O outro 
+O outro que permite uma criação
+\
