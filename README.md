@@ -1,7 +1,7 @@
 # desafio-projeto-dio-github
 Desafio de projeto da DIO no GitHub
 
-## A parceria ##
+## A parceria
 
 Dois elementos lógicos intangíveis,
 \
@@ -28,4 +28,4 @@ Este que possui algoritmos bem seguros,
 E o seu antecessor tem códigos maduros...
 \
 \
-#######*De quem estou falando?*#######
+ #### *De quem estou falando?*
